@@ -1,0 +1,19 @@
+
+
+Name:	www.cloudflare.com
+Address: 104.17.210.9
+Address: 104.17.209.9
+
+
+Name:	cloudflare.com
+Address: 104.17.175.85
+Address: 104.17.176.85
+
+
+Name:	con.g.api.kt.com
+Address: 121.135.153.90
+Address: 211.246.105.142
+
+Name:	gigagenie.ai
+Address: 14.63.143.43
+
