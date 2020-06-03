@@ -1,0 +1,6 @@
+internet_500m,new,20200602,11,0,0,8,n/a,n/a,1,idms_req,50,reco,40,wodi,40,prdi,40,n/a,n/a,fail
+internet_500m,new,20200602,11,0,0,8,n/a,n/a,1,idms_req,50,reco,40,wodi,40,reco,40,wodi,40,succ
+internet_500m,new,20200602,11,0,0,8,n/a,n/a,1,n/a,n/a,prdi,40,n/a,n/a,prdi,40,n/a,n/a,delay
+internet_500m,new,20200602,11,0,0,8,n/a,n/a,1,n/a,n/a,prdi,3,n/a,n/a,prdi,3,n/a,n/a,succ
+internet_500m,new,20200602,11,0,0,8,n/a,n/a,1,n/a,n/a,lord,40,n/a,n/a,phrd,40,n/a,n/a,fail
+internet_500m,new,20200602,11,0,0,8,n/a,n/a,1,n/a,n/a,lord,3,n/a,n/a,lord,3,n/a,n/a,succ
