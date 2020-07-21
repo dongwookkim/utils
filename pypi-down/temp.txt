@@ -1,5 +1,4 @@
-pip download   --python-version 27 --abi cp27m --platform manylinux1_x86_64  --only-binary=:all: -r requirements.txt
-
+pip download   --python-version 36 --abi cp36m --platform manylinux1_x86_64  --only-binary=:all: -r requirements.txt
 
 pip install -r requirements.txt
 
