@@ -1,0 +1,1 @@
+pip download   --python-version 27 --abi cp27m --platform manylinux1_x86_64  --only-binary=:all: -r requirements.txt
